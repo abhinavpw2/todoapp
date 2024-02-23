@@ -1,6 +1,7 @@
 # todoapp
 
 A project that I created while exploring flutter
+A screenshot is attached to see how the app turned out, its a screenshot from the installed app on my phone
 
 ## Getting Started
 
